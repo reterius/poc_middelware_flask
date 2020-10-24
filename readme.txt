@@ -1,6 +1,6 @@
 1) cd poc_middelware_flask
 2) python3 -m venv venv
-3) pip install -r rewuirements.txt
+3) pip install -r requirements.txt
 4) python3 app.py
 
 Fort test:
